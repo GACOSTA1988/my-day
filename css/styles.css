@@ -19,5 +19,10 @@ p.intro{
   font-size: 25px;
 }
 
-
+h2.intro{
+  font-family: cursive;
+  color: green;
+  font-size: 15px;
+  font-stretch: ultra-condensed;
+}
 /* */
