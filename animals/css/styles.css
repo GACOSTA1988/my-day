@@ -2,3 +2,25 @@
   float: left;
   width: 30%;
 }
+
+img {
+  width: inherit;
+  height: 100px;
+}
+
+.column p{
+  font-weight: bold;
+  background-color: lightblue;
+}
+
+.outro p{
+  font-style: italic;
+}
+.outro a{
+  font-style: italic;
+  font-variant: small-caps;
+}
+
+.outro{
+  float:left;
+}
