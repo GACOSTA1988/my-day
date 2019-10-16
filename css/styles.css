@@ -1,0 +1,23 @@
+p.intro{
+  width: 50%;
+  font-style: italic;
+}
+
+.stylish{
+  color: red;
+}
+
+.flashy{
+  color: red;
+  font-style: italic;
+}
+
+.best{
+  /*font-variant: small-caps;*/
+  font-family: fantasy;
+  color: blue;
+  font-size: 25px;
+}
+
+
+/* */
