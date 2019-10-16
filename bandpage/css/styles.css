@@ -1,7 +1,15 @@
 .sidebar{
-  width: 10%;
+  width: 50px;
   float: left;
   background-color: #00ffcc;
+  border: 2px solid green;
+  padding: 40px;
+}
+
+.textmargin {
+  margin: 10px;
+  width: 90%;
+  background-color: lightblue;
 }
 
 .columnA{

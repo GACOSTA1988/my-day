@@ -57,3 +57,10 @@ img {
   width: 300px;
   float: left;
 }
+
+.my-class {
+  border: 2px solid green;
+  padding: 40px;
+  margin: 30px;
+  background-color: orange;
+}
