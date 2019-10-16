@@ -1,0 +1,29 @@
+.sidebar{
+  width: 10%;
+  float: left;
+  background-color: #00ffcc;
+}
+
+.columnA{
+  width: 25%;
+  float: left;
+  background-color: #0099ff;
+}
+.columnB{
+  width: 25%;
+  float: left;
+  background-color: #9966ff;
+}
+.columnC{
+  width: 25%;
+  float: left;
+  background-color: #ff6600;
+}
+
+.floatright{
+  float: right;
+}
+
+.floatleft{
+  float: left;
+}

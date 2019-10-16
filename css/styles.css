@@ -19,10 +19,41 @@ p.intro{
   font-size: 25px;
 }
 
-h2.intro{
+.intro{
   font-family: cursive;
   color: green;
   font-size: 15px;
   font-stretch: ultra-condensed;
 }
 /* */
+.cool{
+  font-weight: bolder;
+  font-variant: small-caps;
+}
+
+.blogpost{
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+.about{
+  font-variant: small-caps;
+  color: blue;
+}
+
+.genre{
+  font-weight: bolder;
+  color: red;
+}
+
+img {
+  float: left;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+}
+.column {
+  width: 300px;
+  float: left;
+}
